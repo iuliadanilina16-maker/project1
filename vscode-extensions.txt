@@ -1,0 +1,13 @@
+atishay-jain.all-autocomplete
+formulahendry.auto-close-tag
+formulahendry.auto-complete-tag
+formulahendry.auto-rename-tag
+formulahendry.code-runner
+naumovs.theme-oceanicnext
+ritwickdey.liveserver
+slevesque.vscode-multiclip
+syler.sass-indented
+vscode-icons-team.vscode-icons
+wix.vscode-import-cost
+xabikos.javascriptsnippets
+xabikos.reactsnippets
